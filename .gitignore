@@ -1,2 +1,4 @@
 .venv/
 models/
+*Zone.Identifier
+*.Zone.Identifier
